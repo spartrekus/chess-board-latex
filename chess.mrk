@@ -1,0 +1,17 @@
+!tex
+!gfx
+//!gpath{figs}
+!ipath{~/pool/mrkdir/}
+\usepackage[margin=0.5cm]{geometry}
+// \pagestyle{headings}
+!begin
+!bold CHESS BOARD 
+// \begin{center}
+// \includegraphics[width=1.0\textwidth]{pic.png}
+// \end{center}
+
+
+!fig chess.jpg
+
+
+
