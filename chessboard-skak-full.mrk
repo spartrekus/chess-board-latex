@@ -1,0 +1,14 @@
+
+// requires texlive-games texlive-generic-extra texlive-pstricks  
+
+\documentclass{article}
+\usepackage{chessboard}
+\usepackage{skak}
+\begin{document}
+\setchessboard{showmover=false}
+\newgame
+\chessboard
+\end{document}
+
+
+
